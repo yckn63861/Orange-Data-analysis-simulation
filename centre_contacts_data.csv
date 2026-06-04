@@ -1,0 +1,1201 @@
+date,canal,motif,agent,duree_secondes,statut,satisfaction
+2024-01-01,Chat,Assistance technique,Agent E,117,Résolu,4
+2024-01-01,Réseaux sociaux,Nouveau contrat,Agent B,255,Non résolu,3
+2024-01-02,Réseaux sociaux,Information,Agent C,302,Non résolu,2
+2024-01-02,Téléphone,Résiliation,Agent E,159,Résolu,3
+2024-01-02,Téléphone,Résiliation,Agent D,741,Résolu,5
+2024-01-03,Chat,Nouveau contrat,Agent E,117,Résolu,4
+2024-01-04,Chat,Assistance technique,Agent B,464,Non résolu,2
+2024-01-04,Chat,Facturation,Agent E,240,Résolu,5
+2024-01-05,Téléphone,Information,Agent C,735,Escaladé,2
+2024-01-06,Téléphone,Facturation,Agent B,558,Escaladé,3
+2024-01-06,Chat,Facturation,Agent A,567,Résolu,3
+2024-01-08,Chat,Assistance technique,Agent C,85,Résolu,5
+2024-01-08,Réseaux sociaux,Réclamation,Agent E,675,Résolu,4
+2024-01-08,Téléphone,Facturation,Agent B,274,Non résolu,1
+2024-01-10,Email,Assistance technique,Agent A,1661,Non résolu,1
+2024-01-10,Téléphone,Résiliation,Agent C,238,Escaladé,4
+2024-01-11,Chat,Assistance technique,Agent B,147,Résolu,5
+2024-01-11,Chat,Résiliation,Agent B,70,Résolu,4
+2024-01-11,Téléphone,Facturation,Agent A,297,Non résolu,2
+2024-01-12,Chat,Résiliation,Agent B,227,Résolu,4
+2024-01-12,Réseaux sociaux,Information,Agent E,211,Escaladé,4
+2024-01-13,Téléphone,Résiliation,Agent D,147,Non résolu,1
+2024-01-13,Email,Assistance technique,Agent C,1205,Escaladé,3
+2024-01-13,Téléphone,Réclamation,Agent B,152,Non résolu,1
+2024-01-13,Chat,Réclamation,Agent B,94,Résolu,5
+2024-01-14,Chat,Résiliation,Agent C,444,Non résolu,1
+2024-01-14,Téléphone,Information,Agent D,679,Résolu,4
+2024-01-15,Téléphone,Résiliation,Agent B,331,Résolu,3
+2024-01-15,Chat,Assistance technique,Agent D,428,Résolu,3
+2024-01-15,Téléphone,Assistance technique,Agent A,527,Résolu,3
+2024-01-15,Téléphone,Facturation,Agent A,798,Non résolu,1
+2024-01-17,Email,Nouveau contrat,Agent C,1461,Résolu,5
+2024-01-17,Email,Facturation,Agent E,1670,Résolu,4
+2024-01-17,Email,Nouveau contrat,Agent E,332,Escaladé,2
+2024-01-17,Téléphone,Réclamation,Agent C,528,Résolu,5
+2024-01-17,Téléphone,Nouveau contrat,Agent B,644,Résolu,5
+2024-01-17,Téléphone,Facturation,Agent C,287,Non résolu,2
+2024-01-17,Chat,Réclamation,Agent C,119,Résolu,3
+2024-01-18,Téléphone,Résiliation,Agent C,135,Non résolu,1
+2024-01-18,Chat,Réclamation,Agent E,180,Escaladé,2
+2024-01-19,Téléphone,Réclamation,Agent C,510,Non résolu,1
+2024-01-19,Email,Résiliation,Agent E,474,Résolu,3
+2024-01-19,Chat,Réclamation,Agent B,257,Résolu,5
+2024-01-19,Chat,Réclamation,Agent C,296,Escaladé,2
+2024-01-19,Chat,Nouveau contrat,Agent A,76,Résolu,4
+2024-01-19,Téléphone,Nouveau contrat,Agent E,686,Résolu,5
+2024-01-20,Email,Assistance technique,Agent B,1242,Non résolu,1
+2024-01-20,Email,Facturation,Agent D,1288,Résolu,5
+2024-01-21,Email,Assistance technique,Agent B,1024,Escaladé,3
+2024-01-21,Téléphone,Assistance technique,Agent C,591,Non résolu,1
+2024-01-21,Téléphone,Résiliation,Agent E,700,Résolu,5
+2024-01-21,Téléphone,Information,Agent E,221,Résolu,3
+2024-01-21,Chat,Nouveau contrat,Agent B,188,Escaladé,4
+2024-01-22,Téléphone,Résiliation,Agent E,894,Résolu,4
+2024-01-22,Téléphone,Information,Agent E,107,Résolu,5
+2024-01-22,Chat,Information,Agent D,188,Escaladé,2
+2024-01-22,Réseaux sociaux,Nouveau contrat,Agent A,205,Résolu,4
+2024-01-23,Téléphone,Réclamation,Agent B,584,Résolu,3
+2024-01-24,Téléphone,Facturation,Agent C,501,Résolu,3
+2024-01-24,Téléphone,Assistance technique,Agent B,508,Résolu,5
+2024-01-24,Email,Nouveau contrat,Agent B,1777,Non résolu,1
+2024-01-25,Téléphone,Nouveau contrat,Agent E,729,Non résolu,2
+2024-01-25,Chat,Nouveau contrat,Agent E,550,Résolu,5
+2024-01-25,Téléphone,Résiliation,Agent D,693,Non résolu,3
+2024-01-25,Email,Résiliation,Agent C,444,Escaladé,3
+2024-01-26,Réseaux sociaux,Information,Agent D,413,Non résolu,2
+2024-01-26,Réseaux sociaux,Facturation,Agent B,408,Non résolu,1
+2024-01-26,Téléphone,Nouveau contrat,Agent D,852,Non résolu,2
+2024-01-27,Téléphone,Nouveau contrat,Agent C,401,Résolu,5
+2024-01-27,Réseaux sociaux,Réclamation,Agent C,711,Résolu,4
+2024-01-27,Téléphone,Réclamation,Agent A,338,Escaladé,3
+2024-01-27,Téléphone,Assistance technique,Agent D,680,Non résolu,3
+2024-01-28,Chat,Information,Agent A,377,Résolu,5
+2024-01-28,Téléphone,Réclamation,Agent C,314,Résolu,3
+2024-01-28,Chat,Nouveau contrat,Agent D,63,Non résolu,2
+2024-01-28,Téléphone,Nouveau contrat,Agent C,358,Résolu,4
+2024-01-28,Email,Nouveau contrat,Agent A,1083,Non résolu,2
+2024-01-29,Email,Réclamation,Agent B,631,Résolu,4
+2024-01-29,Téléphone,Réclamation,Agent D,119,Résolu,5
+2024-01-29,Téléphone,Résiliation,Agent B,809,Non résolu,2
+2024-01-29,Email,Assistance technique,Agent E,1095,Non résolu,1
+2024-01-29,Téléphone,Assistance technique,Agent A,60,Résolu,4
+2024-01-29,Téléphone,Information,Agent A,276,Résolu,5
+2024-01-29,Chat,Information,Agent C,143,Non résolu,1
+2024-01-30,Téléphone,Résiliation,Agent A,152,Escaladé,3
+2024-01-30,Email,Réclamation,Agent D,1694,Escaladé,2
+2024-01-31,Chat,Facturation,Agent A,452,Escaladé,2
+2024-01-31,Chat,Information,Agent E,529,Non résolu,1
+2024-02-01,Chat,Facturation,Agent A,544,Résolu,5
+2024-02-01,Téléphone,Résiliation,Agent A,236,Résolu,3
+2024-02-01,Chat,Nouveau contrat,Agent A,316,Non résolu,1
+2024-02-01,Téléphone,Résiliation,Agent A,892,Résolu,4
+2024-02-02,Téléphone,Réclamation,Agent A,583,Résolu,4
+2024-02-02,Réseaux sociaux,Nouveau contrat,Agent E,526,Résolu,4
+2024-02-02,Chat,Nouveau contrat,Agent C,194,Non résolu,1
+2024-02-02,Téléphone,Information,Agent D,179,Non résolu,1
+2024-02-03,Téléphone,Réclamation,Agent D,801,Résolu,5
+2024-02-03,Téléphone,Réclamation,Agent D,596,Résolu,5
+2024-02-04,Téléphone,Facturation,Agent D,780,Résolu,5
+2024-02-04,Chat,Résiliation,Agent E,476,Résolu,5
+2024-02-05,Email,Information,Agent A,806,Escaladé,2
+2024-02-05,Chat,Résiliation,Agent A,531,Non résolu,1
+2024-02-05,Réseaux sociaux,Nouveau contrat,Agent A,304,Résolu,5
+2024-02-06,Téléphone,Information,Agent A,530,Résolu,5
+2024-02-06,Téléphone,Résiliation,Agent B,728,Résolu,4
+2024-02-06,Email,Facturation,Agent B,498,Non résolu,1
+2024-02-07,Téléphone,Résiliation,Agent A,756,Résolu,4
+2024-02-07,Chat,Assistance technique,Agent D,505,Résolu,4
+2024-02-08,Téléphone,Réclamation,Agent E,852,Résolu,4
+2024-02-08,Chat,Facturation,Agent C,497,Escaladé,4
+2024-02-08,Email,Réclamation,Agent A,1485,Non résolu,1
+2024-02-09,Chat,Facturation,Agent E,83,Escaladé,2
+2024-02-09,Chat,Nouveau contrat,Agent B,391,Résolu,5
+2024-02-09,Chat,Information,Agent B,201,Escaladé,3
+2024-02-10,Email,Facturation,Agent D,1601,Résolu,5
+2024-02-10,Réseaux sociaux,Nouveau contrat,Agent B,271,Non résolu,2
+2024-02-10,Téléphone,Réclamation,Agent D,570,Résolu,4
+2024-02-10,Chat,Information,Agent D,584,Escaladé,4
+2024-02-10,Téléphone,Résiliation,Agent D,208,Escaladé,4
+2024-02-10,Téléphone,Information,Agent A,821,Résolu,5
+2024-02-11,Téléphone,Information,Agent E,418,Résolu,4
+2024-02-11,Téléphone,Facturation,Agent C,791,Non résolu,2
+2024-02-11,Email,Assistance technique,Agent A,1103,Résolu,3
+2024-02-11,Email,Facturation,Agent A,1247,Escaladé,2
+2024-02-12,Chat,Réclamation,Agent E,115,Résolu,4
+2024-02-12,Téléphone,Réclamation,Agent D,65,Résolu,5
+2024-02-12,Téléphone,Réclamation,Agent B,459,Résolu,4
+2024-02-12,Téléphone,Information,Agent A,328,Résolu,3
+2024-02-13,Chat,Facturation,Agent E,161,Escaladé,3
+2024-02-13,Téléphone,Facturation,Agent C,629,Non résolu,1
+2024-02-13,Chat,Réclamation,Agent B,433,Escaladé,2
+2024-02-13,Téléphone,Facturation,Agent B,211,Non résolu,3
+2024-02-13,Réseaux sociaux,Facturation,Agent C,293,Résolu,3
+2024-02-13,Téléphone,Assistance technique,Agent D,644,Non résolu,1
+2024-02-13,Téléphone,Assistance technique,Agent C,467,Non résolu,2
+2024-02-14,Email,Résiliation,Agent C,1426,Escaladé,3
+2024-02-14,Téléphone,Facturation,Agent B,815,Résolu,5
+2024-02-14,Réseaux sociaux,Facturation,Agent D,176,Escaladé,2
+2024-02-14,Téléphone,Assistance technique,Agent D,876,Résolu,4
+2024-02-14,Téléphone,Information,Agent E,783,Non résolu,1
+2024-02-14,Réseaux sociaux,Nouveau contrat,Agent B,643,Résolu,5
+2024-02-15,Chat,Assistance technique,Agent E,68,Escaladé,4
+2024-02-15,Réseaux sociaux,Réclamation,Agent D,212,Résolu,5
+2024-02-15,Téléphone,Nouveau contrat,Agent A,406,Escaladé,4
+2024-02-15,Téléphone,Information,Agent A,612,Escaladé,3
+2024-02-15,Téléphone,Assistance technique,Agent B,472,Résolu,4
+2024-02-16,Réseaux sociaux,Réclamation,Agent D,340,Non résolu,2
+2024-02-16,Téléphone,Information,Agent C,530,Résolu,5
+2024-02-16,Email,Résiliation,Agent E,1591,Résolu,4
+2024-02-17,Téléphone,Nouveau contrat,Agent E,712,Résolu,3
+2024-02-17,Chat,Nouveau contrat,Agent C,577,Non résolu,1
+2024-02-17,Téléphone,Information,Agent C,242,Résolu,4
+2024-02-17,Chat,Réclamation,Agent B,362,Escaladé,3
+2024-02-17,Email,Information,Agent D,935,Résolu,5
+2024-02-17,Téléphone,Réclamation,Agent B,713,Non résolu,1
+2024-02-18,Téléphone,Assistance technique,Agent D,314,Résolu,3
+2024-02-18,Chat,Assistance technique,Agent D,349,Résolu,5
+2024-02-18,Téléphone,Information,Agent E,423,Non résolu,1
+2024-02-19,Chat,Assistance technique,Agent B,288,Escaladé,4
+2024-02-19,Téléphone,Réclamation,Agent E,217,Non résolu,1
+2024-02-19,Téléphone,Résiliation,Agent E,834,Résolu,5
+2024-02-19,Email,Assistance technique,Agent C,442,Non résolu,2
+2024-02-19,Chat,Résiliation,Agent B,560,Résolu,4
+2024-02-20,Réseaux sociaux,Assistance technique,Agent B,203,Résolu,3
+2024-02-20,Téléphone,Réclamation,Agent E,764,Résolu,5
+2024-02-20,Chat,Nouveau contrat,Agent A,191,Résolu,4
+2024-02-20,Email,Réclamation,Agent B,374,Résolu,4
+2024-02-20,Téléphone,Nouveau contrat,Agent B,285,Résolu,3
+2024-02-20,Email,Facturation,Agent B,1329,Résolu,5
+2024-02-20,Téléphone,Résiliation,Agent C,185,Non résolu,2
+2024-02-20,Téléphone,Nouveau contrat,Agent D,123,Résolu,4
+2024-02-21,Téléphone,Assistance technique,Agent E,417,Résolu,5
+2024-02-21,Téléphone,Résiliation,Agent B,809,Non résolu,3
+2024-02-21,Email,Réclamation,Agent B,450,Résolu,5
+2024-02-22,Chat,Réclamation,Agent A,194,Résolu,4
+2024-02-22,Téléphone,Résiliation,Agent C,852,Résolu,5
+2024-02-22,Téléphone,Réclamation,Agent C,106,Résolu,4
+2024-02-22,Email,Facturation,Agent E,1590,Résolu,3
+2024-02-24,Email,Résiliation,Agent E,613,Escaladé,2
+2024-02-24,Téléphone,Réclamation,Agent C,776,Résolu,4
+2024-02-24,Téléphone,Information,Agent A,605,Escaladé,3
+2024-02-24,Téléphone,Résiliation,Agent D,586,Résolu,4
+2024-02-24,Email,Assistance technique,Agent A,1749,Résolu,5
+2024-02-25,Téléphone,Assistance technique,Agent E,492,Résolu,3
+2024-02-25,Chat,Nouveau contrat,Agent A,365,Escaladé,4
+2024-02-25,Chat,Réclamation,Agent B,573,Résolu,4
+2024-02-25,Téléphone,Résiliation,Agent C,343,Escaladé,2
+2024-02-25,Téléphone,Information,Agent D,449,Résolu,4
+2024-02-25,Téléphone,Nouveau contrat,Agent D,197,Résolu,3
+2024-02-26,Téléphone,Assistance technique,Agent D,454,Résolu,4
+2024-02-26,Téléphone,Information,Agent A,192,Résolu,3
+2024-02-27,Téléphone,Information,Agent B,438,Résolu,5
+2024-02-27,Chat,Réclamation,Agent B,408,Escaladé,4
+2024-02-27,Téléphone,Nouveau contrat,Agent D,170,Résolu,3
+2024-02-27,Email,Résiliation,Agent A,1364,Résolu,3
+2024-02-27,Téléphone,Nouveau contrat,Agent D,344,Escaladé,4
+2024-02-28,Email,Assistance technique,Agent C,352,Résolu,5
+2024-02-28,Chat,Résiliation,Agent D,59,Escaladé,4
+2024-02-29,Téléphone,Facturation,Agent C,178,Non résolu,1
+2024-02-29,Téléphone,Nouveau contrat,Agent A,545,Résolu,5
+2024-02-29,Téléphone,Résiliation,Agent E,326,Résolu,4
+2024-02-29,Téléphone,Nouveau contrat,Agent E,516,Non résolu,1
+2024-03-01,Chat,Assistance technique,Agent D,328,Non résolu,2
+2024-03-01,Téléphone,Information,Agent E,695,Résolu,3
+2024-03-01,Réseaux sociaux,Information,Agent A,542,Résolu,3
+2024-03-01,Téléphone,Résiliation,Agent D,96,Résolu,3
+2024-03-02,Réseaux sociaux,Nouveau contrat,Agent B,354,Résolu,4
+2024-03-02,Téléphone,Réclamation,Agent B,842,Résolu,5
+2024-03-03,Téléphone,Nouveau contrat,Agent E,669,Non résolu,1
+2024-03-03,Téléphone,Nouveau contrat,Agent E,173,Résolu,5
+2024-03-03,Email,Résiliation,Agent C,1098,Non résolu,2
+2024-03-04,Chat,Assistance technique,Agent C,486,Résolu,3
+2024-03-04,Téléphone,Réclamation,Agent A,301,Résolu,5
+2024-03-05,Chat,Réclamation,Agent A,517,Escaladé,3
+2024-03-05,Chat,Assistance technique,Agent B,359,Résolu,5
+2024-03-05,Chat,Réclamation,Agent C,553,Résolu,5
+2024-03-06,Email,Réclamation,Agent E,564,Résolu,4
+2024-03-06,Email,Facturation,Agent C,408,Non résolu,1
+2024-03-06,Téléphone,Réclamation,Agent A,173,Résolu,5
+2024-03-07,Email,Réclamation,Agent E,795,Résolu,4
+2024-03-07,Téléphone,Nouveau contrat,Agent C,720,Escaladé,2
+2024-03-07,Téléphone,Nouveau contrat,Agent A,511,Non résolu,1
+2024-03-07,Téléphone,Résiliation,Agent A,786,Résolu,5
+2024-03-07,Chat,Nouveau contrat,Agent E,539,Escaladé,3
+2024-03-07,Téléphone,Nouveau contrat,Agent A,598,Résolu,4
+2024-03-08,Réseaux sociaux,Nouveau contrat,Agent D,365,Résolu,5
+2024-03-08,Téléphone,Assistance technique,Agent E,576,Non résolu,2
+2024-03-08,Réseaux sociaux,Nouveau contrat,Agent C,491,Résolu,3
+2024-03-09,Téléphone,Facturation,Agent E,348,Résolu,5
+2024-03-09,Téléphone,Résiliation,Agent B,140,Résolu,5
+2024-03-09,Chat,Information,Agent B,38,Résolu,5
+2024-03-09,Téléphone,Nouveau contrat,Agent C,228,Escaladé,4
+2024-03-09,Téléphone,Information,Agent E,878,Non résolu,1
+2024-03-10,Téléphone,Nouveau contrat,Agent A,104,Résolu,5
+2024-03-10,Téléphone,Information,Agent D,609,Non résolu,3
+2024-03-10,Téléphone,Information,Agent D,867,Non résolu,2
+2024-03-11,Email,Résiliation,Agent C,1318,Résolu,5
+2024-03-11,Téléphone,Réclamation,Agent B,547,Résolu,4
+2024-03-11,Téléphone,Nouveau contrat,Agent C,103,Résolu,5
+2024-03-12,Email,Assistance technique,Agent C,1583,Escaladé,2
+2024-03-12,Téléphone,Réclamation,Agent E,594,Non résolu,2
+2024-03-13,Téléphone,Résiliation,Agent D,593,Escaladé,3
+2024-03-13,Téléphone,Information,Agent D,572,Résolu,3
+2024-03-14,Chat,Nouveau contrat,Agent B,138,Escaladé,4
+2024-03-15,Téléphone,Résiliation,Agent D,202,Escaladé,3
+2024-03-15,Téléphone,Résiliation,Agent A,512,Résolu,5
+2024-03-15,Téléphone,Réclamation,Agent E,487,Résolu,4
+2024-03-15,Téléphone,Information,Agent C,81,Non résolu,2
+2024-03-15,Chat,Nouveau contrat,Agent E,338,Résolu,5
+2024-03-16,Téléphone,Facturation,Agent C,875,Résolu,5
+2024-03-16,Téléphone,Assistance technique,Agent D,846,Escaladé,2
+2024-03-16,Téléphone,Résiliation,Agent E,621,Escaladé,3
+2024-03-16,Téléphone,Assistance technique,Agent E,83,Non résolu,1
+2024-03-16,Téléphone,Facturation,Agent B,244,Non résolu,2
+2024-03-16,Téléphone,Facturation,Agent A,216,Résolu,5
+2024-03-17,Téléphone,Assistance technique,Agent E,357,Escaladé,2
+2024-03-17,Chat,Assistance technique,Agent D,69,Non résolu,3
+2024-03-17,Chat,Nouveau contrat,Agent D,74,Résolu,3
+2024-03-17,Téléphone,Résiliation,Agent B,180,Non résolu,1
+2024-03-18,Téléphone,Assistance technique,Agent C,643,Résolu,5
+2024-03-18,Chat,Nouveau contrat,Agent E,532,Résolu,4
+2024-03-18,Chat,Information,Agent D,182,Résolu,3
+2024-03-19,Téléphone,Information,Agent C,135,Résolu,3
+2024-03-19,Téléphone,Information,Agent D,830,Non résolu,2
+2024-03-19,Téléphone,Nouveau contrat,Agent E,395,Résolu,3
+2024-03-20,Chat,Assistance technique,Agent A,599,Résolu,4
+2024-03-20,Téléphone,Facturation,Agent E,199,Non résolu,1
+2024-03-20,Téléphone,Résiliation,Agent E,322,Résolu,5
+2024-03-21,Téléphone,Information,Agent C,641,Escaladé,3
+2024-03-22,Chat,Résiliation,Agent C,374,Résolu,3
+2024-03-22,Chat,Nouveau contrat,Agent D,283,Résolu,5
+2024-03-22,Téléphone,Réclamation,Agent D,375,Résolu,4
+2024-03-22,Téléphone,Réclamation,Agent C,714,Escaladé,4
+2024-03-22,Téléphone,Réclamation,Agent D,754,Non résolu,1
+2024-03-22,Chat,Facturation,Agent E,289,Résolu,4
+2024-03-23,Chat,Réclamation,Agent A,530,Résolu,3
+2024-03-23,Téléphone,Information,Agent D,470,Résolu,5
+2024-03-23,Réseaux sociaux,Information,Agent C,183,Résolu,5
+2024-03-23,Téléphone,Information,Agent A,208,Non résolu,1
+2024-03-23,Chat,Réclamation,Agent A,590,Résolu,5
+2024-03-24,Téléphone,Assistance technique,Agent C,759,Escaladé,3
+2024-03-24,Chat,Assistance technique,Agent C,168,Résolu,4
+2024-03-25,Téléphone,Information,Agent B,215,Escaladé,4
+2024-03-27,Téléphone,Information,Agent A,258,Résolu,5
+2024-03-27,Chat,Réclamation,Agent B,375,Résolu,5
+2024-03-27,Téléphone,Réclamation,Agent D,615,Résolu,5
+2024-03-27,Chat,Assistance technique,Agent D,120,Escaladé,2
+2024-03-27,Téléphone,Information,Agent A,715,Résolu,4
+2024-03-27,Téléphone,Assistance technique,Agent B,716,Escaladé,3
+2024-03-27,Chat,Résiliation,Agent B,191,Escaladé,2
+2024-03-27,Téléphone,Assistance technique,Agent C,473,Résolu,3
+2024-03-28,Téléphone,Nouveau contrat,Agent C,157,Résolu,5
+2024-03-28,Chat,Facturation,Agent D,345,Non résolu,2
+2024-03-28,Téléphone,Assistance technique,Agent E,536,Résolu,5
+2024-03-28,Téléphone,Résiliation,Agent E,580,Résolu,3
+2024-03-29,Chat,Assistance technique,Agent A,511,Résolu,4
+2024-03-29,Chat,Information,Agent A,535,Résolu,4
+2024-03-29,Chat,Nouveau contrat,Agent C,352,Résolu,5
+2024-03-29,Téléphone,Assistance technique,Agent C,212,Résolu,3
+2024-03-29,Téléphone,Réclamation,Agent C,774,Non résolu,1
+2024-03-29,Chat,Facturation,Agent D,315,Résolu,5
+2024-03-29,Téléphone,Information,Agent E,157,Non résolu,2
+2024-03-30,Chat,Résiliation,Agent D,30,Résolu,4
+2024-03-30,Téléphone,Réclamation,Agent B,744,Résolu,5
+2024-03-30,Téléphone,Assistance technique,Agent A,466,Non résolu,2
+2024-03-30,Chat,Nouveau contrat,Agent E,382,Résolu,5
+2024-03-30,Téléphone,Nouveau contrat,Agent D,623,Résolu,4
+2024-03-31,Email,Facturation,Agent B,980,Escaladé,3
+2024-03-31,Téléphone,Facturation,Agent A,274,Résolu,5
+2024-03-31,Chat,Assistance technique,Agent B,359,Résolu,4
+2024-03-31,Réseaux sociaux,Information,Agent E,156,Résolu,3
+2024-04-01,Chat,Réclamation,Agent D,396,Escaladé,3
+2024-04-02,Chat,Résiliation,Agent A,332,Résolu,4
+2024-04-02,Téléphone,Assistance technique,Agent B,843,Résolu,4
+2024-04-02,Email,Assistance technique,Agent C,303,Non résolu,1
+2024-04-03,Téléphone,Résiliation,Agent B,506,Escaladé,2
+2024-04-03,Email,Facturation,Agent A,1742,Résolu,4
+2024-04-05,Réseaux sociaux,Résiliation,Agent A,701,Résolu,5
+2024-04-05,Téléphone,Résiliation,Agent C,835,Résolu,3
+2024-04-05,Téléphone,Assistance technique,Agent D,746,Résolu,5
+2024-04-05,Téléphone,Facturation,Agent E,749,Résolu,3
+2024-04-06,Email,Nouveau contrat,Agent E,1304,Résolu,3
+2024-04-06,Email,Réclamation,Agent E,1376,Escaladé,4
+2024-04-07,Réseaux sociaux,Réclamation,Agent B,402,Non résolu,2
+2024-04-07,Réseaux sociaux,Facturation,Agent D,329,Non résolu,1
+2024-04-07,Téléphone,Facturation,Agent B,412,Résolu,4
+2024-04-07,Chat,Facturation,Agent D,156,Résolu,5
+2024-04-07,Téléphone,Assistance technique,Agent B,331,Escaladé,2
+2024-04-08,Téléphone,Facturation,Agent A,851,Résolu,4
+2024-04-08,Téléphone,Réclamation,Agent A,839,Escaladé,4
+2024-04-09,Chat,Information,Agent D,453,Résolu,3
+2024-04-09,Téléphone,Résiliation,Agent D,876,Non résolu,1
+2024-04-10,Téléphone,Nouveau contrat,Agent E,571,Non résolu,2
+2024-04-10,Chat,Réclamation,Agent B,449,Résolu,3
+2024-04-10,Email,Assistance technique,Agent C,1698,Résolu,3
+2024-04-11,Chat,Nouveau contrat,Agent C,270,Résolu,3
+2024-04-11,Chat,Nouveau contrat,Agent E,52,Non résolu,1
+2024-04-11,Chat,Information,Agent E,506,Résolu,5
+2024-04-11,Téléphone,Assistance technique,Agent A,499,Résolu,5
+2024-04-12,Email,Assistance technique,Agent D,1434,Résolu,5
+2024-04-12,Email,Résiliation,Agent C,421,Résolu,5
+2024-04-12,Téléphone,Résiliation,Agent A,824,Résolu,5
+2024-04-12,Chat,Résiliation,Agent E,191,Résolu,4
+2024-04-13,Chat,Assistance technique,Agent B,562,Résolu,4
+2024-04-13,Téléphone,Réclamation,Agent A,228,Résolu,4
+2024-04-13,Email,Réclamation,Agent C,518,Résolu,3
+2024-04-13,Email,Facturation,Agent B,1199,Non résolu,3
+2024-04-14,Téléphone,Réclamation,Agent D,813,Non résolu,2
+2024-04-14,Téléphone,Réclamation,Agent D,632,Résolu,5
+2024-04-14,Téléphone,Résiliation,Agent B,724,Résolu,4
+2024-04-15,Téléphone,Réclamation,Agent B,892,Résolu,5
+2024-04-15,Email,Réclamation,Agent C,1522,Résolu,4
+2024-04-15,Chat,Information,Agent A,133,Résolu,5
+2024-04-15,Chat,Information,Agent D,103,Escaladé,3
+2024-04-15,Chat,Facturation,Agent C,181,Non résolu,1
+2024-04-15,Réseaux sociaux,Assistance technique,Agent C,638,Escaladé,3
+2024-04-16,Téléphone,Assistance technique,Agent A,97,Escaladé,2
+2024-04-17,Téléphone,Réclamation,Agent E,536,Escaladé,3
+2024-04-17,Chat,Assistance technique,Agent B,294,Résolu,4
+2024-04-18,Téléphone,Résiliation,Agent C,670,Résolu,5
+2024-04-19,Téléphone,Information,Agent A,878,Résolu,5
+2024-04-19,Email,Information,Agent B,851,Escaladé,3
+2024-04-19,Email,Réclamation,Agent B,547,Résolu,4
+2024-04-20,Téléphone,Nouveau contrat,Agent D,480,Résolu,5
+2024-04-20,Email,Nouveau contrat,Agent A,985,Résolu,4
+2024-04-21,Téléphone,Réclamation,Agent A,793,Résolu,5
+2024-04-21,Téléphone,Résiliation,Agent C,681,Résolu,5
+2024-04-21,Email,Réclamation,Agent A,1653,Escaladé,2
+2024-04-22,Téléphone,Résiliation,Agent D,458,Résolu,4
+2024-04-22,Téléphone,Réclamation,Agent A,368,Résolu,5
+2024-04-23,Téléphone,Assistance technique,Agent C,437,Escaladé,3
+2024-04-23,Chat,Information,Agent D,339,Non résolu,2
+2024-04-23,Chat,Facturation,Agent A,243,Non résolu,2
+2024-04-23,Téléphone,Résiliation,Agent A,766,Escaladé,4
+2024-04-24,Email,Résiliation,Agent E,1528,Escaladé,3
+2024-04-25,Téléphone,Réclamation,Agent A,808,Résolu,4
+2024-04-26,Téléphone,Information,Agent B,345,Résolu,5
+2024-04-26,Téléphone,Nouveau contrat,Agent D,157,Résolu,4
+2024-04-26,Chat,Réclamation,Agent A,421,Escaladé,2
+2024-04-26,Téléphone,Assistance technique,Agent B,495,Non résolu,2
+2024-04-27,Chat,Facturation,Agent A,90,Escaladé,2
+2024-04-27,Chat,Résiliation,Agent B,286,Escaladé,3
+2024-04-27,Téléphone,Information,Agent C,251,Résolu,3
+2024-04-28,Téléphone,Assistance technique,Agent B,477,Résolu,4
+2024-04-28,Téléphone,Résiliation,Agent D,299,Résolu,5
+2024-04-28,Email,Information,Agent B,1646,Résolu,4
+2024-04-28,Email,Réclamation,Agent D,1062,Escaladé,3
+2024-04-28,Chat,Assistance technique,Agent B,284,Résolu,5
+2024-04-29,Téléphone,Nouveau contrat,Agent C,162,Escaladé,3
+2024-04-29,Téléphone,Facturation,Agent A,548,Résolu,3
+2024-04-30,Chat,Résiliation,Agent B,474,Escaladé,4
+2024-04-30,Email,Facturation,Agent C,1620,Résolu,4
+2024-04-30,Chat,Information,Agent A,436,Résolu,3
+2024-04-30,Réseaux sociaux,Assistance technique,Agent B,339,Résolu,5
+2024-05-01,Réseaux sociaux,Réclamation,Agent C,579,Escaladé,2
+2024-05-01,Téléphone,Information,Agent D,512,Résolu,3
+2024-05-01,Téléphone,Résiliation,Agent B,239,Résolu,3
+2024-05-01,Email,Nouveau contrat,Agent A,1104,Non résolu,3
+2024-05-02,Téléphone,Nouveau contrat,Agent B,644,Résolu,5
+2024-05-02,Chat,Résiliation,Agent D,397,Résolu,4
+2024-05-02,Téléphone,Facturation,Agent E,254,Non résolu,2
+2024-05-03,Chat,Information,Agent D,47,Résolu,3
+2024-05-03,Téléphone,Assistance technique,Agent D,135,Escaladé,3
+2024-05-03,Téléphone,Information,Agent C,480,Non résolu,1
+2024-05-04,Téléphone,Information,Agent A,848,Non résolu,3
+2024-05-04,Chat,Réclamation,Agent B,466,Résolu,5
+2024-05-04,Téléphone,Nouveau contrat,Agent C,649,Escaladé,2
+2024-05-05,Téléphone,Assistance technique,Agent D,780,Non résolu,1
+2024-05-05,Email,Facturation,Agent C,799,Non résolu,2
+2024-05-05,Chat,Nouveau contrat,Agent D,252,Résolu,5
+2024-05-05,Chat,Nouveau contrat,Agent A,558,Résolu,5
+2024-05-06,Téléphone,Assistance technique,Agent C,802,Résolu,5
+2024-05-06,Chat,Facturation,Agent C,187,Résolu,5
+2024-05-06,Chat,Nouveau contrat,Agent B,204,Résolu,3
+2024-05-06,Téléphone,Réclamation,Agent E,857,Résolu,4
+2024-05-07,Chat,Résiliation,Agent B,75,Escaladé,3
+2024-05-07,Téléphone,Nouveau contrat,Agent B,94,Escaladé,2
+2024-05-08,Chat,Réclamation,Agent B,447,Non résolu,1
+2024-05-09,Téléphone,Information,Agent B,859,Résolu,3
+2024-05-09,Téléphone,Assistance technique,Agent E,829,Non résolu,3
+2024-05-09,Réseaux sociaux,Réclamation,Agent C,527,Escaladé,3
+2024-05-09,Chat,Résiliation,Agent C,154,Non résolu,2
+2024-05-10,Chat,Assistance technique,Agent A,432,Non résolu,1
+2024-05-10,Téléphone,Nouveau contrat,Agent D,60,Non résolu,2
+2024-05-10,Email,Résiliation,Agent C,963,Résolu,5
+2024-05-10,Chat,Nouveau contrat,Agent D,277,Escaladé,3
+2024-05-10,Téléphone,Assistance technique,Agent C,224,Résolu,5
+2024-05-12,Téléphone,Information,Agent A,629,Résolu,4
+2024-05-12,Téléphone,Information,Agent B,295,Escaladé,4
+2024-05-12,Téléphone,Facturation,Agent A,316,Résolu,5
+2024-05-12,Téléphone,Résiliation,Agent D,173,Non résolu,2
+2024-05-13,Téléphone,Information,Agent C,465,Résolu,3
+2024-05-13,Chat,Information,Agent B,151,Résolu,4
+2024-05-13,Chat,Facturation,Agent E,259,Escaladé,4
+2024-05-13,Email,Assistance technique,Agent D,1380,Résolu,5
+2024-05-13,Chat,Réclamation,Agent E,62,Résolu,5
+2024-05-14,Téléphone,Résiliation,Agent E,830,Résolu,5
+2024-05-14,Email,Assistance technique,Agent C,904,Escaladé,2
+2024-05-14,Téléphone,Nouveau contrat,Agent A,876,Résolu,4
+2024-05-14,Téléphone,Nouveau contrat,Agent E,844,Escaladé,4
+2024-05-14,Téléphone,Nouveau contrat,Agent B,760,Résolu,5
+2024-05-15,Téléphone,Information,Agent E,824,Résolu,5
+2024-05-15,Réseaux sociaux,Nouveau contrat,Agent C,689,Résolu,5
+2024-05-15,Téléphone,Information,Agent D,396,Escaladé,4
+2024-05-15,Chat,Réclamation,Agent D,61,Escaladé,3
+2024-05-15,Chat,Nouveau contrat,Agent B,533,Résolu,5
+2024-05-16,Email,Facturation,Agent A,929,Résolu,5
+2024-05-16,Téléphone,Assistance technique,Agent A,453,Résolu,5
+2024-05-16,Email,Facturation,Agent C,1240,Non résolu,2
+2024-05-16,Chat,Nouveau contrat,Agent C,401,Non résolu,2
+2024-05-16,Chat,Nouveau contrat,Agent C,411,Résolu,4
+2024-05-16,Téléphone,Nouveau contrat,Agent D,271,Résolu,5
+2024-05-17,Téléphone,Nouveau contrat,Agent B,505,Résolu,4
+2024-05-17,Chat,Facturation,Agent A,469,Résolu,4
+2024-05-17,Email,Facturation,Agent C,674,Non résolu,1
+2024-05-18,Chat,Réclamation,Agent D,304,Résolu,4
+2024-05-18,Téléphone,Facturation,Agent B,630,Résolu,5
+2024-05-18,Chat,Information,Agent B,137,Résolu,4
+2024-05-19,Chat,Nouveau contrat,Agent D,70,Résolu,5
+2024-05-19,Téléphone,Nouveau contrat,Agent D,624,Résolu,3
+2024-05-19,Email,Résiliation,Agent D,904,Non résolu,2
+2024-05-19,Téléphone,Résiliation,Agent C,240,Escaladé,3
+2024-05-20,Chat,Résiliation,Agent E,502,Résolu,4
+2024-05-20,Téléphone,Assistance technique,Agent A,86,Résolu,5
+2024-05-21,Email,Réclamation,Agent D,862,Escaladé,3
+2024-05-21,Chat,Réclamation,Agent B,446,Résolu,4
+2024-05-21,Email,Résiliation,Agent D,710,Résolu,4
+2024-05-22,Téléphone,Réclamation,Agent D,609,Escaladé,2
+2024-05-22,Chat,Nouveau contrat,Agent E,600,Non résolu,1
+2024-05-22,Chat,Assistance technique,Agent C,242,Escaladé,3
+2024-05-22,Téléphone,Assistance technique,Agent E,472,Escaladé,4
+2024-05-22,Téléphone,Réclamation,Agent C,323,Résolu,3
+2024-05-22,Téléphone,Facturation,Agent E,753,Non résolu,2
+2024-05-23,Chat,Nouveau contrat,Agent C,299,Non résolu,2
+2024-05-24,Téléphone,Résiliation,Agent E,706,Résolu,5
+2024-05-24,Téléphone,Réclamation,Agent A,161,Non résolu,3
+2024-05-24,Chat,Assistance technique,Agent D,179,Résolu,3
+2024-05-24,Chat,Facturation,Agent D,234,Résolu,3
+2024-05-25,Téléphone,Information,Agent E,814,Résolu,4
+2024-05-25,Chat,Réclamation,Agent B,339,Non résolu,1
+2024-05-25,Téléphone,Nouveau contrat,Agent B,715,Résolu,4
+2024-05-25,Téléphone,Information,Agent C,514,Escaladé,2
+2024-05-25,Chat,Information,Agent E,416,Escaladé,3
+2024-05-26,Téléphone,Résiliation,Agent C,142,Non résolu,1
+2024-05-26,Chat,Facturation,Agent D,300,Résolu,5
+2024-05-26,Téléphone,Information,Agent D,243,Non résolu,1
+2024-05-27,Téléphone,Réclamation,Agent D,346,Escaladé,4
+2024-05-27,Téléphone,Information,Agent E,464,Résolu,5
+2024-05-27,Téléphone,Information,Agent A,542,Résolu,3
+2024-05-28,Téléphone,Réclamation,Agent E,504,Résolu,5
+2024-05-28,Chat,Information,Agent B,212,Non résolu,2
+2024-05-29,Email,Facturation,Agent D,585,Escaladé,3
+2024-05-30,Chat,Nouveau contrat,Agent A,135,Résolu,5
+2024-05-31,Email,Facturation,Agent E,1378,Escaladé,2
+2024-05-31,Téléphone,Assistance technique,Agent B,549,Non résolu,1
+2024-05-31,Téléphone,Facturation,Agent A,100,Non résolu,3
+2024-05-31,Téléphone,Réclamation,Agent A,523,Résolu,3
+2024-06-01,Téléphone,Information,Agent E,448,Résolu,5
+2024-06-01,Réseaux sociaux,Réclamation,Agent A,440,Escaladé,2
+2024-06-01,Téléphone,Facturation,Agent B,301,Non résolu,2
+2024-06-01,Email,Nouveau contrat,Agent C,484,Escaladé,2
+2024-06-02,Email,Information,Agent B,1341,Escaladé,2
+2024-06-02,Téléphone,Facturation,Agent C,312,Résolu,5
+2024-06-02,Téléphone,Réclamation,Agent A,767,Résolu,3
+2024-06-02,Téléphone,Réclamation,Agent D,117,Résolu,5
+2024-06-02,Téléphone,Nouveau contrat,Agent A,623,Escaladé,2
+2024-06-03,Téléphone,Résiliation,Agent A,316,Escaladé,2
+2024-06-03,Téléphone,Réclamation,Agent B,782,Résolu,4
+2024-06-03,Email,Résiliation,Agent D,1249,Résolu,4
+2024-06-03,Chat,Facturation,Agent A,240,Non résolu,2
+2024-06-04,Chat,Assistance technique,Agent D,535,Résolu,5
+2024-06-04,Téléphone,Facturation,Agent B,770,Résolu,3
+2024-06-05,Téléphone,Facturation,Agent B,820,Résolu,4
+2024-06-05,Téléphone,Résiliation,Agent B,488,Résolu,5
+2024-06-05,Chat,Assistance technique,Agent E,353,Résolu,5
+2024-06-05,Téléphone,Facturation,Agent B,143,Escaladé,4
+2024-06-05,Téléphone,Résiliation,Agent B,355,Résolu,5
+2024-06-06,Téléphone,Résiliation,Agent C,361,Résolu,4
+2024-06-06,Chat,Résiliation,Agent A,118,Résolu,4
+2024-06-07,Réseaux sociaux,Information,Agent D,206,Résolu,4
+2024-06-07,Téléphone,Réclamation,Agent D,97,Résolu,4
+2024-06-07,Réseaux sociaux,Réclamation,Agent B,218,Résolu,5
+2024-06-08,Chat,Réclamation,Agent D,146,Résolu,4
+2024-06-08,Téléphone,Réclamation,Agent D,265,Résolu,4
+2024-06-08,Réseaux sociaux,Résiliation,Agent D,331,Résolu,5
+2024-06-08,Chat,Résiliation,Agent E,510,Escaladé,3
+2024-06-09,Chat,Résiliation,Agent B,515,Escaladé,2
+2024-06-09,Chat,Réclamation,Agent D,457,Escaladé,2
+2024-06-09,Téléphone,Réclamation,Agent C,272,Non résolu,1
+2024-06-09,Réseaux sociaux,Facturation,Agent C,270,Non résolu,2
+2024-06-10,Téléphone,Nouveau contrat,Agent D,718,Non résolu,1
+2024-06-10,Téléphone,Assistance technique,Agent E,900,Résolu,5
+2024-06-10,Téléphone,Facturation,Agent B,659,Résolu,4
+2024-06-10,Chat,Facturation,Agent B,133,Résolu,4
+2024-06-10,Email,Information,Agent C,1729,Résolu,5
+2024-06-11,Téléphone,Facturation,Agent A,515,Non résolu,1
+2024-06-11,Téléphone,Information,Agent C,505,Non résolu,2
+2024-06-12,Réseaux sociaux,Résiliation,Agent C,696,Résolu,5
+2024-06-12,Chat,Facturation,Agent C,513,Résolu,4
+2024-06-12,Téléphone,Facturation,Agent C,331,Résolu,4
+2024-06-12,Email,Nouveau contrat,Agent D,1604,Résolu,5
+2024-06-12,Téléphone,Information,Agent C,235,Résolu,3
+2024-06-13,Téléphone,Nouveau contrat,Agent E,252,Escaladé,3
+2024-06-13,Téléphone,Réclamation,Agent A,435,Résolu,4
+2024-06-14,Chat,Facturation,Agent A,51,Résolu,5
+2024-06-14,Réseaux sociaux,Résiliation,Agent C,646,Résolu,5
+2024-06-14,Téléphone,Assistance technique,Agent E,205,Escaladé,3
+2024-06-14,Chat,Résiliation,Agent E,597,Non résolu,1
+2024-06-14,Chat,Réclamation,Agent E,593,Résolu,5
+2024-06-15,Email,Facturation,Agent C,473,Résolu,5
+2024-06-15,Email,Réclamation,Agent D,325,Non résolu,2
+2024-06-15,Téléphone,Résiliation,Agent E,868,Résolu,4
+2024-06-15,Téléphone,Facturation,Agent A,419,Résolu,4
+2024-06-15,Téléphone,Information,Agent D,491,Résolu,4
+2024-06-16,Téléphone,Information,Agent B,287,Résolu,5
+2024-06-16,Téléphone,Réclamation,Agent E,138,Résolu,5
+2024-06-17,Email,Réclamation,Agent A,596,Résolu,5
+2024-06-17,Téléphone,Information,Agent A,664,Résolu,5
+2024-06-18,Téléphone,Assistance technique,Agent E,634,Résolu,5
+2024-06-18,Chat,Résiliation,Agent D,180,Non résolu,2
+2024-06-19,Téléphone,Information,Agent B,266,Résolu,5
+2024-06-19,Téléphone,Facturation,Agent A,734,Résolu,5
+2024-06-20,Téléphone,Information,Agent E,197,Résolu,5
+2024-06-20,Téléphone,Nouveau contrat,Agent D,183,Non résolu,3
+2024-06-20,Chat,Information,Agent B,178,Résolu,3
+2024-06-21,Email,Réclamation,Agent B,615,Résolu,3
+2024-06-21,Chat,Réclamation,Agent E,390,Résolu,5
+2024-06-22,Email,Nouveau contrat,Agent A,762,Résolu,5
+2024-06-22,Téléphone,Assistance technique,Agent B,470,Résolu,3
+2024-06-22,Chat,Résiliation,Agent B,551,Résolu,4
+2024-06-22,Réseaux sociaux,Nouveau contrat,Agent D,148,Non résolu,1
+2024-06-23,Réseaux sociaux,Nouveau contrat,Agent B,260,Résolu,3
+2024-06-23,Téléphone,Information,Agent C,442,Résolu,5
+2024-06-23,Email,Information,Agent B,1082,Résolu,4
+2024-06-23,Téléphone,Information,Agent E,505,Résolu,5
+2024-06-24,Téléphone,Information,Agent C,317,Résolu,5
+2024-06-24,Chat,Assistance technique,Agent B,109,Escaladé,3
+2024-06-24,Réseaux sociaux,Assistance technique,Agent E,277,Non résolu,2
+2024-06-25,Téléphone,Réclamation,Agent D,389,Résolu,5
+2024-06-25,Téléphone,Résiliation,Agent E,743,Résolu,4
+2024-06-25,Téléphone,Information,Agent E,248,Résolu,4
+2024-06-25,Téléphone,Nouveau contrat,Agent E,202,Résolu,4
+2024-06-25,Réseaux sociaux,Réclamation,Agent A,642,Escaladé,3
+2024-06-25,Téléphone,Résiliation,Agent A,535,Résolu,4
+2024-06-25,Téléphone,Nouveau contrat,Agent E,805,Résolu,5
+2024-06-26,Chat,Information,Agent C,159,Résolu,5
+2024-06-26,Téléphone,Assistance technique,Agent A,434,Résolu,4
+2024-06-27,Téléphone,Information,Agent B,209,Résolu,4
+2024-06-27,Réseaux sociaux,Nouveau contrat,Agent A,502,Résolu,4
+2024-06-27,Téléphone,Nouveau contrat,Agent E,749,Résolu,5
+2024-06-27,Téléphone,Résiliation,Agent B,259,Escaladé,3
+2024-06-28,Email,Réclamation,Agent D,585,Résolu,5
+2024-06-29,Chat,Nouveau contrat,Agent C,88,Escaladé,2
+2024-06-29,Téléphone,Résiliation,Agent B,573,Non résolu,1
+2024-06-30,Téléphone,Réclamation,Agent C,824,Résolu,5
+2024-06-30,Téléphone,Assistance technique,Agent C,407,Non résolu,3
+2024-07-01,Email,Résiliation,Agent B,1586,Escaladé,2
+2024-07-01,Téléphone,Facturation,Agent B,723,Résolu,4
+2024-07-02,Email,Assistance technique,Agent E,656,Résolu,4
+2024-07-03,Téléphone,Réclamation,Agent E,579,Résolu,5
+2024-07-03,Chat,Nouveau contrat,Agent D,510,Résolu,5
+2024-07-03,Chat,Résiliation,Agent C,547,Non résolu,1
+2024-07-03,Email,Résiliation,Agent D,494,Escaladé,4
+2024-07-03,Téléphone,Information,Agent C,533,Non résolu,1
+2024-07-03,Téléphone,Nouveau contrat,Agent A,724,Résolu,4
+2024-07-03,Chat,Résiliation,Agent C,154,Résolu,4
+2024-07-03,Email,Assistance technique,Agent C,1672,Non résolu,1
+2024-07-03,Chat,Réclamation,Agent A,535,Résolu,3
+2024-07-04,Chat,Information,Agent A,263,Résolu,5
+2024-07-04,Email,Résiliation,Agent B,1461,Résolu,5
+2024-07-04,Chat,Nouveau contrat,Agent B,564,Résolu,5
+2024-07-04,Chat,Nouveau contrat,Agent D,238,Escaladé,2
+2024-07-04,Chat,Facturation,Agent D,74,Résolu,5
+2024-07-05,Téléphone,Nouveau contrat,Agent C,884,Résolu,5
+2024-07-06,Chat,Facturation,Agent D,465,Résolu,3
+2024-07-07,Téléphone,Nouveau contrat,Agent C,852,Résolu,5
+2024-07-08,Téléphone,Information,Agent B,446,Résolu,5
+2024-07-08,Email,Résiliation,Agent B,839,Résolu,4
+2024-07-08,Chat,Information,Agent A,102,Non résolu,1
+2024-07-09,Téléphone,Facturation,Agent E,435,Résolu,4
+2024-07-09,Téléphone,Résiliation,Agent C,563,Résolu,5
+2024-07-09,Téléphone,Nouveau contrat,Agent C,645,Résolu,3
+2024-07-09,Téléphone,Réclamation,Agent C,834,Résolu,5
+2024-07-10,Chat,Réclamation,Agent D,333,Résolu,5
+2024-07-11,Chat,Résiliation,Agent B,569,Escaladé,2
+2024-07-11,Téléphone,Assistance technique,Agent D,410,Non résolu,2
+2024-07-11,Téléphone,Réclamation,Agent D,290,Résolu,4
+2024-07-11,Email,Information,Agent C,1385,Résolu,5
+2024-07-11,Téléphone,Facturation,Agent E,155,Non résolu,1
+2024-07-12,Téléphone,Information,Agent E,416,Résolu,3
+2024-07-13,Téléphone,Résiliation,Agent E,104,Résolu,5
+2024-07-13,Chat,Nouveau contrat,Agent E,579,Non résolu,2
+2024-07-14,Chat,Assistance technique,Agent D,176,Non résolu,1
+2024-07-14,Réseaux sociaux,Réclamation,Agent C,560,Résolu,3
+2024-07-14,Téléphone,Information,Agent B,69,Résolu,3
+2024-07-15,Réseaux sociaux,Facturation,Agent E,580,Résolu,5
+2024-07-15,Téléphone,Résiliation,Agent C,800,Résolu,5
+2024-07-15,Téléphone,Réclamation,Agent B,411,Résolu,5
+2024-07-15,Réseaux sociaux,Nouveau contrat,Agent E,413,Escaladé,3
+2024-07-15,Chat,Information,Agent E,127,Résolu,5
+2024-07-16,Téléphone,Assistance technique,Agent D,436,Escaladé,4
+2024-07-16,Téléphone,Information,Agent C,589,Résolu,5
+2024-07-17,Chat,Réclamation,Agent E,292,Escaladé,2
+2024-07-17,Téléphone,Nouveau contrat,Agent B,336,Escaladé,2
+2024-07-18,Email,Nouveau contrat,Agent E,1418,Escaladé,3
+2024-07-18,Email,Facturation,Agent D,819,Non résolu,2
+2024-07-18,Chat,Réclamation,Agent C,173,Résolu,5
+2024-07-18,Email,Assistance technique,Agent C,1580,Résolu,4
+2024-07-18,Téléphone,Facturation,Agent E,735,Escaladé,3
+2024-07-18,Réseaux sociaux,Information,Agent C,285,Escaladé,3
+2024-07-19,Téléphone,Facturation,Agent B,175,Résolu,4
+2024-07-19,Email,Réclamation,Agent C,595,Non résolu,1
+2024-07-19,Email,Résiliation,Agent A,865,Résolu,3
+2024-07-20,Téléphone,Réclamation,Agent B,618,Résolu,3
+2024-07-20,Chat,Information,Agent C,308,Résolu,4
+2024-07-20,Email,Assistance technique,Agent D,1730,Non résolu,2
+2024-07-21,Téléphone,Réclamation,Agent D,397,Non résolu,1
+2024-07-21,Chat,Assistance technique,Agent E,213,Résolu,4
+2024-07-22,Téléphone,Facturation,Agent D,277,Résolu,5
+2024-07-22,Réseaux sociaux,Information,Agent D,539,Résolu,5
+2024-07-22,Réseaux sociaux,Résiliation,Agent B,700,Résolu,5
+2024-07-22,Chat,Information,Agent E,463,Escaladé,3
+2024-07-23,Réseaux sociaux,Résiliation,Agent D,609,Escaladé,3
+2024-07-24,Chat,Nouveau contrat,Agent C,256,Escaladé,2
+2024-07-24,Téléphone,Résiliation,Agent B,546,Résolu,5
+2024-07-24,Réseaux sociaux,Assistance technique,Agent D,157,Résolu,5
+2024-07-25,Chat,Réclamation,Agent B,418,Résolu,5
+2024-07-25,Email,Facturation,Agent E,411,Résolu,3
+2024-07-25,Téléphone,Nouveau contrat,Agent A,259,Résolu,4
+2024-07-25,Téléphone,Assistance technique,Agent B,82,Résolu,5
+2024-07-25,Chat,Résiliation,Agent B,139,Résolu,5
+2024-07-25,Email,Facturation,Agent E,1087,Résolu,5
+2024-07-26,Téléphone,Résiliation,Agent B,692,Non résolu,1
+2024-07-27,Téléphone,Facturation,Agent D,480,Résolu,4
+2024-07-27,Réseaux sociaux,Information,Agent B,362,Non résolu,3
+2024-07-27,Téléphone,Facturation,Agent C,671,Résolu,5
+2024-07-27,Chat,Réclamation,Agent C,557,Non résolu,2
+2024-07-27,Téléphone,Nouveau contrat,Agent B,881,Non résolu,1
+2024-07-29,Email,Information,Agent B,1736,Résolu,3
+2024-07-29,Email,Nouveau contrat,Agent D,1764,Résolu,5
+2024-07-30,Réseaux sociaux,Réclamation,Agent E,389,Résolu,4
+2024-07-30,Téléphone,Facturation,Agent B,173,Résolu,5
+2024-07-30,Email,Assistance technique,Agent D,642,Escaladé,2
+2024-07-30,Réseaux sociaux,Nouveau contrat,Agent E,490,Escaladé,4
+2024-07-31,Email,Réclamation,Agent B,1086,Escaladé,3
+2024-07-31,Téléphone,Réclamation,Agent C,349,Non résolu,2
+2024-07-31,Téléphone,Assistance technique,Agent E,434,Non résolu,2
+2024-07-31,Email,Information,Agent A,844,Non résolu,2
+2024-07-31,Téléphone,Résiliation,Agent E,309,Résolu,5
+2024-07-31,Email,Résiliation,Agent B,1168,Non résolu,2
+2024-07-31,Téléphone,Réclamation,Agent E,272,Résolu,4
+2024-08-01,Chat,Réclamation,Agent B,419,Escaladé,3
+2024-08-01,Réseaux sociaux,Assistance technique,Agent C,706,Escaladé,3
+2024-08-01,Téléphone,Information,Agent B,843,Résolu,4
+2024-08-02,Téléphone,Assistance technique,Agent C,798,Non résolu,1
+2024-08-02,Téléphone,Facturation,Agent B,155,Escaladé,2
+2024-08-02,Réseaux sociaux,Nouveau contrat,Agent D,479,Non résolu,2
+2024-08-03,Téléphone,Nouveau contrat,Agent C,870,Résolu,3
+2024-08-05,Téléphone,Information,Agent E,630,Résolu,4
+2024-08-05,Chat,Nouveau contrat,Agent C,423,Résolu,5
+2024-08-05,Téléphone,Nouveau contrat,Agent D,833,Résolu,4
+2024-08-05,Chat,Nouveau contrat,Agent E,490,Résolu,4
+2024-08-05,Chat,Résiliation,Agent E,439,Résolu,4
+2024-08-06,Chat,Nouveau contrat,Agent D,112,Résolu,4
+2024-08-06,Téléphone,Facturation,Agent C,367,Résolu,4
+2024-08-07,Téléphone,Nouveau contrat,Agent B,448,Résolu,4
+2024-08-07,Email,Nouveau contrat,Agent C,880,Résolu,4
+2024-08-07,Chat,Assistance technique,Agent B,257,Résolu,5
+2024-08-08,Email,Information,Agent E,956,Résolu,5
+2024-08-08,Email,Réclamation,Agent B,1422,Escaladé,2
+2024-08-08,Réseaux sociaux,Assistance technique,Agent E,445,Non résolu,1
+2024-08-09,Téléphone,Réclamation,Agent D,693,Résolu,4
+2024-08-09,Chat,Information,Agent C,303,Résolu,5
+2024-08-09,Téléphone,Facturation,Agent C,190,Résolu,4
+2024-08-09,Réseaux sociaux,Nouveau contrat,Agent E,687,Résolu,5
+2024-08-10,Téléphone,Facturation,Agent C,254,Résolu,4
+2024-08-10,Chat,Nouveau contrat,Agent D,422,Non résolu,1
+2024-08-10,Réseaux sociaux,Information,Agent A,493,Résolu,4
+2024-08-12,Téléphone,Information,Agent A,606,Résolu,4
+2024-08-12,Chat,Assistance technique,Agent A,535,Résolu,4
+2024-08-12,Chat,Réclamation,Agent D,221,Résolu,4
+2024-08-12,Email,Facturation,Agent A,1548,Escaladé,3
+2024-08-12,Réseaux sociaux,Facturation,Agent B,605,Non résolu,1
+2024-08-13,Téléphone,Résiliation,Agent B,362,Résolu,4
+2024-08-13,Téléphone,Assistance technique,Agent B,219,Escaladé,3
+2024-08-13,Téléphone,Assistance technique,Agent E,720,Résolu,4
+2024-08-13,Téléphone,Réclamation,Agent A,443,Résolu,5
+2024-08-14,Chat,Information,Agent E,591,Résolu,4
+2024-08-14,Téléphone,Réclamation,Agent D,695,Résolu,3
+2024-08-14,Email,Information,Agent C,1419,Escaladé,3
+2024-08-14,Téléphone,Facturation,Agent D,202,Non résolu,2
+2024-08-14,Email,Réclamation,Agent E,1000,Escaladé,2
+2024-08-14,Téléphone,Facturation,Agent E,146,Non résolu,1
+2024-08-15,Téléphone,Facturation,Agent E,839,Résolu,4
+2024-08-15,Email,Facturation,Agent C,1244,Résolu,3
+2024-08-15,Réseaux sociaux,Nouveau contrat,Agent A,719,Non résolu,1
+2024-08-16,Téléphone,Nouveau contrat,Agent E,214,Escaladé,2
+2024-08-16,Téléphone,Information,Agent C,94,Résolu,3
+2024-08-16,Chat,Réclamation,Agent E,482,Escaladé,3
+2024-08-17,Téléphone,Assistance technique,Agent B,189,Non résolu,1
+2024-08-18,Réseaux sociaux,Réclamation,Agent B,607,Résolu,4
+2024-08-18,Téléphone,Réclamation,Agent E,570,Résolu,3
+2024-08-18,Téléphone,Assistance technique,Agent E,670,Escaladé,2
+2024-08-19,Téléphone,Facturation,Agent D,344,Résolu,5
+2024-08-19,Email,Assistance technique,Agent D,1349,Escaladé,2
+2024-08-19,Chat,Information,Agent A,498,Résolu,3
+2024-08-20,Téléphone,Nouveau contrat,Agent C,491,Escaladé,2
+2024-08-20,Téléphone,Information,Agent A,240,Non résolu,1
+2024-08-20,Chat,Facturation,Agent B,169,Escaladé,2
+2024-08-20,Chat,Résiliation,Agent E,367,Escaladé,4
+2024-08-21,Téléphone,Assistance technique,Agent D,218,Non résolu,1
+2024-08-21,Chat,Réclamation,Agent A,138,Non résolu,1
+2024-08-22,Téléphone,Information,Agent B,559,Escaladé,2
+2024-08-22,Téléphone,Nouveau contrat,Agent E,682,Non résolu,3
+2024-08-22,Téléphone,Résiliation,Agent B,678,Non résolu,1
+2024-08-23,Email,Résiliation,Agent B,380,Résolu,5
+2024-08-24,Téléphone,Facturation,Agent D,623,Non résolu,1
+2024-08-24,Email,Nouveau contrat,Agent E,631,Résolu,5
+2024-08-24,Téléphone,Assistance technique,Agent A,859,Résolu,5
+2024-08-24,Téléphone,Résiliation,Agent E,766,Non résolu,2
+2024-08-24,Email,Nouveau contrat,Agent A,913,Non résolu,2
+2024-08-25,Téléphone,Facturation,Agent A,762,Résolu,4
+2024-08-26,Téléphone,Assistance technique,Agent D,848,Résolu,5
+2024-08-26,Téléphone,Réclamation,Agent E,164,Résolu,3
+2024-08-26,Chat,Facturation,Agent B,454,Escaladé,3
+2024-08-26,Chat,Résiliation,Agent C,98,Résolu,5
+2024-08-27,Chat,Réclamation,Agent A,147,Escaladé,3
+2024-08-27,Email,Réclamation,Agent B,476,Escaladé,2
+2024-08-27,Téléphone,Facturation,Agent C,529,Résolu,5
+2024-08-28,Téléphone,Résiliation,Agent B,318,Non résolu,3
+2024-08-28,Téléphone,Facturation,Agent A,280,Résolu,5
+2024-08-28,Email,Assistance technique,Agent A,956,Escaladé,2
+2024-08-28,Chat,Information,Agent D,518,Non résolu,1
+2024-08-28,Téléphone,Résiliation,Agent D,184,Non résolu,3
+2024-08-28,Chat,Résiliation,Agent D,331,Résolu,4
+2024-08-28,Chat,Réclamation,Agent A,433,Résolu,4
+2024-08-28,Téléphone,Assistance technique,Agent E,761,Résolu,4
+2024-08-29,Téléphone,Assistance technique,Agent B,96,Non résolu,2
+2024-08-29,Téléphone,Information,Agent C,617,Résolu,4
+2024-08-29,Téléphone,Information,Agent C,483,Résolu,4
+2024-08-30,Chat,Nouveau contrat,Agent D,185,Non résolu,1
+2024-08-30,Téléphone,Résiliation,Agent D,683,Résolu,5
+2024-08-30,Chat,Résiliation,Agent C,294,Résolu,5
+2024-08-30,Chat,Réclamation,Agent A,328,Escaladé,4
+2024-08-31,Téléphone,Information,Agent D,367,Résolu,3
+2024-08-31,Chat,Assistance technique,Agent D,434,Résolu,5
+2024-09-01,Téléphone,Facturation,Agent D,650,Résolu,5
+2024-09-01,Téléphone,Assistance technique,Agent C,595,Non résolu,1
+2024-09-02,Téléphone,Réclamation,Agent C,772,Non résolu,1
+2024-09-03,Chat,Nouveau contrat,Agent B,450,Résolu,3
+2024-09-03,Téléphone,Résiliation,Agent D,648,Non résolu,3
+2024-09-03,Téléphone,Réclamation,Agent C,370,Résolu,4
+2024-09-05,Téléphone,Nouveau contrat,Agent A,62,Résolu,5
+2024-09-05,Téléphone,Réclamation,Agent E,336,Résolu,3
+2024-09-05,Chat,Facturation,Agent D,575,Escaladé,4
+2024-09-05,Téléphone,Assistance technique,Agent A,575,Résolu,4
+2024-09-06,Téléphone,Résiliation,Agent B,653,Non résolu,2
+2024-09-06,Téléphone,Résiliation,Agent C,744,Résolu,4
+2024-09-06,Téléphone,Réclamation,Agent C,509,Non résolu,2
+2024-09-06,Téléphone,Réclamation,Agent B,813,Résolu,4
+2024-09-06,Téléphone,Information,Agent D,203,Escaladé,2
+2024-09-06,Téléphone,Facturation,Agent B,783,Non résolu,2
+2024-09-06,Téléphone,Facturation,Agent E,650,Résolu,4
+2024-09-07,Chat,Résiliation,Agent A,252,Escaladé,3
+2024-09-07,Téléphone,Résiliation,Agent E,874,Non résolu,2
+2024-09-07,Chat,Nouveau contrat,Agent B,72,Résolu,5
+2024-09-08,Réseaux sociaux,Nouveau contrat,Agent C,448,Résolu,5
+2024-09-08,Téléphone,Assistance technique,Agent A,790,Résolu,4
+2024-09-08,Téléphone,Réclamation,Agent C,828,Résolu,5
+2024-09-08,Téléphone,Nouveau contrat,Agent C,899,Escaladé,2
+2024-09-08,Téléphone,Nouveau contrat,Agent D,274,Résolu,5
+2024-09-10,Chat,Assistance technique,Agent D,341,Résolu,3
+2024-09-10,Chat,Facturation,Agent E,586,Résolu,5
+2024-09-10,Téléphone,Résiliation,Agent E,564,Résolu,3
+2024-09-11,Email,Assistance technique,Agent E,1139,Résolu,5
+2024-09-12,Chat,Facturation,Agent E,177,Résolu,4
+2024-09-12,Email,Assistance technique,Agent C,510,Résolu,5
+2024-09-12,Téléphone,Information,Agent E,383,Résolu,5
+2024-09-12,Chat,Facturation,Agent C,34,Résolu,5
+2024-09-12,Email,Nouveau contrat,Agent C,1418,Résolu,5
+2024-09-13,Chat,Nouveau contrat,Agent C,274,Résolu,5
+2024-09-13,Téléphone,Information,Agent B,552,Escaladé,3
+2024-09-13,Téléphone,Réclamation,Agent E,98,Résolu,5
+2024-09-14,Téléphone,Information,Agent C,348,Escaladé,3
+2024-09-14,Téléphone,Facturation,Agent E,610,Non résolu,2
+2024-09-14,Téléphone,Résiliation,Agent D,384,Résolu,5
+2024-09-14,Téléphone,Facturation,Agent C,692,Résolu,4
+2024-09-15,Téléphone,Nouveau contrat,Agent C,211,Escaladé,2
+2024-09-15,Email,Nouveau contrat,Agent C,679,Escaladé,3
+2024-09-15,Téléphone,Résiliation,Agent C,484,Escaladé,2
+2024-09-16,Téléphone,Réclamation,Agent E,816,Non résolu,3
+2024-09-16,Téléphone,Information,Agent B,258,Résolu,3
+2024-09-17,Chat,Information,Agent D,402,Non résolu,2
+2024-09-17,Téléphone,Résiliation,Agent E,760,Escaladé,3
+2024-09-17,Email,Réclamation,Agent E,308,Résolu,4
+2024-09-18,Réseaux sociaux,Assistance technique,Agent E,720,Résolu,5
+2024-09-18,Chat,Assistance technique,Agent D,74,Résolu,5
+2024-09-19,Téléphone,Nouveau contrat,Agent A,287,Non résolu,2
+2024-09-19,Téléphone,Information,Agent A,195,Résolu,5
+2024-09-19,Téléphone,Nouveau contrat,Agent D,636,Résolu,5
+2024-09-21,Téléphone,Assistance technique,Agent B,81,Résolu,5
+2024-09-21,Réseaux sociaux,Nouveau contrat,Agent A,409,Non résolu,2
+2024-09-22,Téléphone,Facturation,Agent D,676,Résolu,5
+2024-09-22,Téléphone,Facturation,Agent E,775,Résolu,4
+2024-09-23,Téléphone,Résiliation,Agent C,665,Résolu,5
+2024-09-23,Réseaux sociaux,Nouveau contrat,Agent B,143,Résolu,3
+2024-09-23,Chat,Nouveau contrat,Agent E,364,Résolu,4
+2024-09-23,Email,Nouveau contrat,Agent B,1319,Résolu,4
+2024-09-23,Réseaux sociaux,Nouveau contrat,Agent D,686,Non résolu,3
+2024-09-23,Téléphone,Information,Agent B,875,Résolu,4
+2024-09-24,Téléphone,Nouveau contrat,Agent B,117,Résolu,3
+2024-09-24,Téléphone,Résiliation,Agent A,668,Escaladé,4
+2024-09-24,Téléphone,Assistance technique,Agent E,533,Résolu,4
+2024-09-25,Chat,Facturation,Agent B,399,Résolu,3
+2024-09-25,Téléphone,Réclamation,Agent E,574,Résolu,5
+2024-09-25,Réseaux sociaux,Facturation,Agent E,210,Escaladé,2
+2024-09-26,Email,Facturation,Agent C,1656,Escaladé,2
+2024-09-26,Téléphone,Assistance technique,Agent E,577,Résolu,3
+2024-09-26,Réseaux sociaux,Résiliation,Agent D,655,Résolu,5
+2024-09-26,Téléphone,Nouveau contrat,Agent D,790,Résolu,4
+2024-09-26,Chat,Réclamation,Agent A,477,Résolu,3
+2024-09-27,Chat,Facturation,Agent E,590,Résolu,5
+2024-09-27,Réseaux sociaux,Résiliation,Agent E,521,Résolu,5
+2024-09-28,Téléphone,Réclamation,Agent A,130,Non résolu,2
+2024-09-28,Téléphone,Information,Agent E,779,Résolu,4
+2024-09-28,Téléphone,Information,Agent B,140,Résolu,5
+2024-09-28,Téléphone,Résiliation,Agent C,524,Résolu,3
+2024-09-28,Téléphone,Nouveau contrat,Agent D,78,Escaladé,2
+2024-09-29,Chat,Facturation,Agent A,311,Résolu,4
+2024-09-29,Chat,Facturation,Agent A,163,Résolu,5
+2024-09-29,Réseaux sociaux,Facturation,Agent B,269,Résolu,5
+2024-09-29,Téléphone,Nouveau contrat,Agent A,221,Résolu,4
+2024-09-29,Téléphone,Réclamation,Agent E,270,Résolu,5
+2024-09-30,Téléphone,Nouveau contrat,Agent E,87,Résolu,3
+2024-09-30,Téléphone,Résiliation,Agent D,96,Non résolu,2
+2024-09-30,Téléphone,Résiliation,Agent A,835,Non résolu,2
+2024-09-30,Chat,Réclamation,Agent A,50,Escaladé,2
+2024-09-30,Téléphone,Nouveau contrat,Agent A,731,Résolu,4
+2024-10-01,Téléphone,Nouveau contrat,Agent A,703,Résolu,5
+2024-10-01,Email,Information,Agent C,1190,Résolu,3
+2024-10-01,Téléphone,Résiliation,Agent C,713,Résolu,5
+2024-10-01,Email,Nouveau contrat,Agent C,1294,Résolu,5
+2024-10-01,Téléphone,Résiliation,Agent E,756,Résolu,4
+2024-10-02,Téléphone,Nouveau contrat,Agent C,820,Escaladé,3
+2024-10-02,Téléphone,Assistance technique,Agent B,834,Non résolu,1
+2024-10-03,Téléphone,Réclamation,Agent E,863,Résolu,4
+2024-10-03,Téléphone,Information,Agent B,730,Non résolu,1
+2024-10-03,Téléphone,Assistance technique,Agent A,86,Escaladé,2
+2024-10-03,Email,Information,Agent D,1058,Résolu,5
+2024-10-03,Réseaux sociaux,Réclamation,Agent C,145,Résolu,4
+2024-10-03,Chat,Nouveau contrat,Agent E,548,Non résolu,1
+2024-10-03,Téléphone,Nouveau contrat,Agent D,587,Résolu,4
+2024-10-04,Téléphone,Information,Agent A,61,Non résolu,2
+2024-10-05,Chat,Facturation,Agent C,248,Résolu,5
+2024-10-06,Téléphone,Nouveau contrat,Agent E,66,Résolu,5
+2024-10-06,Téléphone,Assistance technique,Agent D,628,Résolu,4
+2024-10-07,Réseaux sociaux,Réclamation,Agent E,415,Résolu,4
+2024-10-07,Téléphone,Assistance technique,Agent D,62,Résolu,3
+2024-10-07,Téléphone,Information,Agent E,671,Résolu,4
+2024-10-07,Téléphone,Facturation,Agent E,650,Non résolu,1
+2024-10-08,Téléphone,Réclamation,Agent E,276,Résolu,5
+2024-10-08,Téléphone,Facturation,Agent C,178,Résolu,5
+2024-10-08,Téléphone,Information,Agent D,274,Non résolu,1
+2024-10-08,Téléphone,Facturation,Agent E,712,Non résolu,1
+2024-10-08,Téléphone,Réclamation,Agent A,128,Résolu,4
+2024-10-08,Réseaux sociaux,Résiliation,Agent C,560,Résolu,5
+2024-10-09,Téléphone,Information,Agent C,155,Escaladé,3
+2024-10-10,Chat,Information,Agent E,318,Résolu,4
+2024-10-10,Téléphone,Nouveau contrat,Agent E,608,Résolu,5
+2024-10-10,Chat,Réclamation,Agent E,68,Résolu,4
+2024-10-12,Téléphone,Facturation,Agent D,324,Résolu,5
+2024-10-12,Email,Réclamation,Agent A,621,Résolu,4
+2024-10-12,Chat,Résiliation,Agent B,167,Résolu,4
+2024-10-12,Téléphone,Assistance technique,Agent E,166,Escaladé,3
+2024-10-13,Téléphone,Assistance technique,Agent C,75,Résolu,4
+2024-10-13,Réseaux sociaux,Assistance technique,Agent E,509,Résolu,3
+2024-10-13,Email,Assistance technique,Agent C,755,Escaladé,2
+2024-10-13,Email,Résiliation,Agent A,363,Non résolu,1
+2024-10-13,Chat,Nouveau contrat,Agent C,463,Résolu,5
+2024-10-14,Chat,Information,Agent A,463,Résolu,5
+2024-10-14,Téléphone,Résiliation,Agent D,686,Résolu,4
+2024-10-14,Chat,Nouveau contrat,Agent D,455,Escaladé,3
+2024-10-14,Téléphone,Résiliation,Agent C,847,Escaladé,2
+2024-10-15,Email,Nouveau contrat,Agent E,1579,Escaladé,2
+2024-10-15,Téléphone,Facturation,Agent A,716,Résolu,5
+2024-10-16,Téléphone,Nouveau contrat,Agent B,139,Résolu,4
+2024-10-16,Chat,Assistance technique,Agent D,71,Non résolu,1
+2024-10-16,Email,Assistance technique,Agent A,818,Escaladé,2
+2024-10-17,Téléphone,Information,Agent B,327,Résolu,5
+2024-10-17,Téléphone,Réclamation,Agent C,686,Non résolu,1
+2024-10-18,Chat,Nouveau contrat,Agent C,362,Résolu,3
+2024-10-18,Réseaux sociaux,Nouveau contrat,Agent A,431,Résolu,5
+2024-10-18,Téléphone,Réclamation,Agent B,848,Escaladé,2
+2024-10-18,Téléphone,Information,Agent D,729,Résolu,5
+2024-10-18,Téléphone,Réclamation,Agent A,792,Résolu,3
+2024-10-18,Téléphone,Facturation,Agent A,582,Résolu,4
+2024-10-19,Téléphone,Facturation,Agent B,753,Escaladé,2
+2024-10-20,Téléphone,Information,Agent D,451,Résolu,5
+2024-10-20,Téléphone,Assistance technique,Agent C,589,Non résolu,3
+2024-10-20,Téléphone,Assistance technique,Agent E,154,Escaladé,3
+2024-10-21,Chat,Nouveau contrat,Agent D,233,Non résolu,1
+2024-10-21,Téléphone,Assistance technique,Agent D,770,Escaladé,4
+2024-10-21,Téléphone,Nouveau contrat,Agent D,848,Résolu,4
+2024-10-21,Chat,Facturation,Agent C,598,Non résolu,1
+2024-10-22,Téléphone,Facturation,Agent D,885,Résolu,4
+2024-10-22,Chat,Information,Agent C,176,Résolu,5
+2024-10-22,Téléphone,Nouveau contrat,Agent C,840,Non résolu,1
+2024-10-23,Chat,Information,Agent A,204,Résolu,4
+2024-10-23,Téléphone,Nouveau contrat,Agent C,614,Escaladé,4
+2024-10-23,Téléphone,Assistance technique,Agent C,172,Résolu,4
+2024-10-23,Téléphone,Assistance technique,Agent E,687,Escaladé,2
+2024-10-23,Téléphone,Résiliation,Agent C,880,Résolu,4
+2024-10-24,Chat,Résiliation,Agent B,589,Résolu,4
+2024-10-24,Chat,Assistance technique,Agent B,566,Résolu,5
+2024-10-24,Email,Information,Agent B,761,Escaladé,2
+2024-10-24,Réseaux sociaux,Réclamation,Agent C,212,Résolu,4
+2024-10-24,Chat,Information,Agent E,269,Non résolu,1
+2024-10-25,Téléphone,Assistance technique,Agent B,153,Résolu,5
+2024-10-25,Téléphone,Information,Agent A,331,Résolu,5
+2024-10-25,Email,Facturation,Agent A,506,Résolu,5
+2024-10-25,Email,Assistance technique,Agent E,841,Escaladé,2
+2024-10-25,Téléphone,Nouveau contrat,Agent D,780,Escaladé,3
+2024-10-25,Téléphone,Information,Agent C,498,Résolu,4
+2024-10-26,Réseaux sociaux,Assistance technique,Agent A,366,Résolu,4
+2024-10-26,Réseaux sociaux,Information,Agent E,543,Résolu,4
+2024-10-26,Téléphone,Nouveau contrat,Agent B,684,Résolu,4
+2024-10-27,Chat,Information,Agent D,487,Non résolu,2
+2024-10-27,Téléphone,Résiliation,Agent B,121,Résolu,5
+2024-10-27,Téléphone,Facturation,Agent A,262,Non résolu,3
+2024-10-27,Chat,Information,Agent D,301,Escaladé,2
+2024-10-28,Chat,Résiliation,Agent D,173,Résolu,4
+2024-10-28,Email,Réclamation,Agent C,668,Escaladé,2
+2024-10-29,Téléphone,Information,Agent C,637,Non résolu,1
+2024-10-29,Téléphone,Facturation,Agent E,612,Résolu,4
+2024-10-29,Téléphone,Réclamation,Agent B,553,Résolu,4
+2024-10-29,Réseaux sociaux,Réclamation,Agent A,165,Résolu,3
+2024-10-30,Téléphone,Information,Agent D,772,Résolu,4
+2024-10-31,Téléphone,Facturation,Agent D,638,Escaladé,3
+2024-10-31,Email,Assistance technique,Agent A,1172,Non résolu,1
+2024-11-01,Téléphone,Information,Agent C,583,Résolu,3
+2024-11-01,Réseaux sociaux,Facturation,Agent C,248,Résolu,5
+2024-11-01,Téléphone,Assistance technique,Agent D,266,Résolu,5
+2024-11-01,Email,Information,Agent D,939,Escaladé,2
+2024-11-02,Téléphone,Nouveau contrat,Agent E,768,Résolu,4
+2024-11-02,Réseaux sociaux,Information,Agent A,410,Non résolu,3
+2024-11-02,Chat,Facturation,Agent A,420,Résolu,4
+2024-11-03,Email,Réclamation,Agent A,1177,Résolu,5
+2024-11-03,Email,Assistance technique,Agent C,925,Escaladé,3
+2024-11-03,Téléphone,Facturation,Agent C,141,Résolu,5
+2024-11-03,Téléphone,Réclamation,Agent C,630,Escaladé,4
+2024-11-03,Téléphone,Assistance technique,Agent A,88,Résolu,4
+2024-11-04,Email,Résiliation,Agent A,589,Résolu,5
+2024-11-04,Chat,Assistance technique,Agent D,73,Résolu,5
+2024-11-04,Téléphone,Facturation,Agent B,661,Non résolu,2
+2024-11-04,Chat,Facturation,Agent B,368,Résolu,5
+2024-11-04,Téléphone,Nouveau contrat,Agent C,849,Résolu,5
+2024-11-04,Email,Information,Agent D,900,Résolu,5
+2024-11-05,Téléphone,Résiliation,Agent A,440,Escaladé,3
+2024-11-06,Téléphone,Information,Agent C,413,Escaladé,4
+2024-11-06,Email,Assistance technique,Agent C,952,Non résolu,1
+2024-11-06,Téléphone,Information,Agent E,835,Non résolu,2
+2024-11-06,Téléphone,Information,Agent A,867,Escaladé,3
+2024-11-07,Chat,Réclamation,Agent B,418,Résolu,4
+2024-11-07,Email,Résiliation,Agent E,1576,Résolu,4
+2024-11-08,Email,Nouveau contrat,Agent D,477,Résolu,4
+2024-11-08,Téléphone,Résiliation,Agent E,760,Résolu,5
+2024-11-09,Email,Assistance technique,Agent E,851,Résolu,4
+2024-11-09,Téléphone,Assistance technique,Agent D,489,Résolu,5
+2024-11-09,Email,Information,Agent C,1389,Résolu,5
+2024-11-09,Chat,Réclamation,Agent E,267,Escaladé,2
+2024-11-09,Email,Réclamation,Agent D,359,Résolu,4
+2024-11-09,Chat,Assistance technique,Agent A,373,Escaladé,3
+2024-11-10,Téléphone,Assistance technique,Agent C,881,Escaladé,4
+2024-11-10,Email,Assistance technique,Agent E,1074,Non résolu,1
+2024-11-10,Email,Information,Agent A,1638,Résolu,3
+2024-11-10,Chat,Réclamation,Agent B,213,Résolu,5
+2024-11-11,Chat,Résiliation,Agent E,551,Résolu,4
+2024-11-11,Chat,Assistance technique,Agent A,173,Non résolu,2
+2024-11-11,Téléphone,Résiliation,Agent D,741,Résolu,4
+2024-11-11,Téléphone,Information,Agent D,149,Non résolu,1
+2024-11-12,Téléphone,Facturation,Agent A,683,Résolu,3
+2024-11-12,Téléphone,Information,Agent E,388,Résolu,3
+2024-11-13,Email,Nouveau contrat,Agent B,796,Non résolu,1
+2024-11-13,Téléphone,Résiliation,Agent A,259,Résolu,5
+2024-11-13,Chat,Information,Agent C,593,Résolu,4
+2024-11-13,Téléphone,Assistance technique,Agent C,396,Résolu,5
+2024-11-14,Téléphone,Facturation,Agent C,875,Résolu,5
+2024-11-14,Chat,Assistance technique,Agent A,569,Résolu,3
+2024-11-15,Chat,Facturation,Agent B,433,Non résolu,1
+2024-11-15,Chat,Nouveau contrat,Agent A,181,Résolu,5
+2024-11-15,Téléphone,Nouveau contrat,Agent A,138,Résolu,5
+2024-11-16,Chat,Assistance technique,Agent D,260,Résolu,5
+2024-11-16,Téléphone,Résiliation,Agent B,870,Escaladé,2
+2024-11-16,Chat,Assistance technique,Agent E,221,Escaladé,3
+2024-11-17,Téléphone,Nouveau contrat,Agent A,706,Résolu,4
+2024-11-17,Chat,Information,Agent C,445,Résolu,4
+2024-11-17,Chat,Information,Agent A,47,Résolu,5
+2024-11-18,Téléphone,Information,Agent B,577,Résolu,4
+2024-11-18,Réseaux sociaux,Réclamation,Agent A,487,Non résolu,1
+2024-11-18,Téléphone,Résiliation,Agent A,181,Résolu,4
+2024-11-19,Réseaux sociaux,Information,Agent A,468,Résolu,3
+2024-11-19,Téléphone,Information,Agent D,340,Escaladé,4
+2024-11-20,Chat,Facturation,Agent B,260,Escaladé,4
+2024-11-20,Chat,Facturation,Agent D,336,Résolu,5
+2024-11-20,Réseaux sociaux,Facturation,Agent E,549,Résolu,4
+2024-11-20,Téléphone,Nouveau contrat,Agent D,626,Résolu,5
+2024-11-21,Email,Nouveau contrat,Agent E,1393,Escaladé,2
+2024-11-21,Email,Facturation,Agent E,843,Résolu,3
+2024-11-22,Réseaux sociaux,Assistance technique,Agent D,557,Résolu,5
+2024-11-22,Téléphone,Résiliation,Agent A,536,Non résolu,3
+2024-11-22,Téléphone,Réclamation,Agent B,206,Non résolu,2
+2024-11-22,Chat,Réclamation,Agent A,354,Non résolu,1
+2024-11-22,Email,Information,Agent C,648,Résolu,5
+2024-11-22,Chat,Information,Agent B,402,Non résolu,2
+2024-11-22,Réseaux sociaux,Assistance technique,Agent E,355,Non résolu,1
+2024-11-23,Téléphone,Information,Agent C,202,Résolu,5
+2024-11-23,Chat,Assistance technique,Agent C,87,Non résolu,1
+2024-11-23,Réseaux sociaux,Information,Agent C,695,Résolu,5
+2024-11-23,Email,Résiliation,Agent D,1470,Escaladé,3
+2024-11-23,Réseaux sociaux,Nouveau contrat,Agent B,701,Résolu,5
+2024-11-24,Réseaux sociaux,Information,Agent D,511,Résolu,4
+2024-11-24,Chat,Facturation,Agent E,104,Résolu,4
+2024-11-24,Téléphone,Réclamation,Agent A,790,Non résolu,2
+2024-11-25,Téléphone,Information,Agent D,550,Non résolu,2
+2024-11-25,Téléphone,Réclamation,Agent D,76,Non résolu,1
+2024-11-26,Téléphone,Résiliation,Agent A,696,Résolu,5
+2024-11-26,Chat,Nouveau contrat,Agent C,470,Non résolu,1
+2024-11-26,Téléphone,Réclamation,Agent E,682,Escaladé,2
+2024-11-26,Téléphone,Information,Agent D,354,Résolu,5
+2024-11-27,Téléphone,Facturation,Agent E,204,Non résolu,1
+2024-11-28,Téléphone,Facturation,Agent A,571,Escaladé,3
+2024-11-28,Chat,Facturation,Agent C,274,Escaladé,2
+2024-11-28,Email,Assistance technique,Agent A,1787,Résolu,3
+2024-11-28,Téléphone,Information,Agent C,717,Résolu,5
+2024-11-28,Téléphone,Nouveau contrat,Agent D,227,Résolu,3
+2024-11-28,Téléphone,Assistance technique,Agent A,900,Non résolu,2
+2024-11-28,Email,Réclamation,Agent D,954,Escaladé,3
+2024-11-28,Téléphone,Assistance technique,Agent C,610,Résolu,4
+2024-11-29,Réseaux sociaux,Facturation,Agent A,362,Non résolu,1
+2024-11-29,Téléphone,Résiliation,Agent B,506,Non résolu,2
+2024-11-30,Chat,Information,Agent E,136,Résolu,5
+2024-11-30,Email,Résiliation,Agent A,1013,Résolu,5
+2024-11-30,Téléphone,Résiliation,Agent D,813,Non résolu,2
+2024-12-01,Téléphone,Facturation,Agent C,469,Résolu,5
+2024-12-01,Téléphone,Résiliation,Agent B,797,Résolu,4
+2024-12-01,Chat,Nouveau contrat,Agent C,162,Non résolu,1
+2024-12-02,Email,Résiliation,Agent A,1739,Résolu,5
+2024-12-02,Chat,Facturation,Agent A,41,Escaladé,2
+2024-12-02,Téléphone,Nouveau contrat,Agent A,734,Résolu,4
+2024-12-03,Téléphone,Facturation,Agent E,856,Non résolu,2
+2024-12-03,Chat,Assistance technique,Agent A,70,Non résolu,1
+2024-12-03,Chat,Nouveau contrat,Agent A,520,Résolu,5
+2024-12-03,Téléphone,Assistance technique,Agent D,225,Escaladé,2
+2024-12-03,Chat,Facturation,Agent D,289,Résolu,3
+2024-12-03,Chat,Facturation,Agent B,134,Résolu,5
+2024-12-04,Chat,Nouveau contrat,Agent C,424,Escaladé,2
+2024-12-04,Téléphone,Réclamation,Agent E,862,Résolu,5
+2024-12-04,Réseaux sociaux,Information,Agent D,403,Non résolu,2
+2024-12-04,Téléphone,Information,Agent D,705,Non résolu,2
+2024-12-04,Réseaux sociaux,Information,Agent D,665,Résolu,5
+2024-12-05,Email,Information,Agent C,1665,Résolu,4
+2024-12-05,Réseaux sociaux,Résiliation,Agent E,409,Escaladé,2
+2024-12-05,Téléphone,Résiliation,Agent D,613,Résolu,5
+2024-12-06,Email,Assistance technique,Agent E,467,Non résolu,2
+2024-12-06,Réseaux sociaux,Assistance technique,Agent A,432,Résolu,5
+2024-12-06,Chat,Réclamation,Agent D,165,Résolu,5
+2024-12-06,Téléphone,Réclamation,Agent D,201,Escaladé,4
+2024-12-07,Chat,Information,Agent E,462,Résolu,5
+2024-12-07,Chat,Information,Agent E,268,Résolu,5
+2024-12-07,Téléphone,Assistance technique,Agent D,441,Résolu,3
+2024-12-07,Chat,Nouveau contrat,Agent D,180,Résolu,5
+2024-12-07,Téléphone,Réclamation,Agent C,506,Résolu,4
+2024-12-08,Email,Réclamation,Agent E,1566,Escaladé,2
+2024-12-09,Téléphone,Nouveau contrat,Agent A,398,Non résolu,2
+2024-12-09,Téléphone,Résiliation,Agent A,244,Résolu,5
+2024-12-09,Téléphone,Réclamation,Agent C,478,Escaladé,2
+2024-12-09,Téléphone,Résiliation,Agent C,412,Résolu,5
+2024-12-10,Email,Réclamation,Agent A,658,Escaladé,3
+2024-12-10,Email,Information,Agent A,306,Résolu,5
+2024-12-11,Email,Nouveau contrat,Agent A,1466,Non résolu,1
+2024-12-11,Téléphone,Nouveau contrat,Agent B,350,Escaladé,3
+2024-12-11,Réseaux sociaux,Réclamation,Agent C,524,Résolu,3
+2024-12-11,Chat,Assistance technique,Agent E,42,Résolu,4
+2024-12-11,Chat,Assistance technique,Agent E,553,Résolu,5
+2024-12-11,Téléphone,Nouveau contrat,Agent A,461,Résolu,3
+2024-12-12,Chat,Réclamation,Agent A,62,Résolu,3
+2024-12-12,Chat,Facturation,Agent D,336,Non résolu,2
+2024-12-12,Email,Information,Agent C,693,Escaladé,4
+2024-12-12,Téléphone,Assistance technique,Agent E,702,Escaladé,3
+2024-12-13,Email,Information,Agent B,561,Non résolu,3
+2024-12-13,Email,Facturation,Agent B,1621,Résolu,4
+2024-12-13,Email,Assistance technique,Agent D,867,Non résolu,3
+2024-12-13,Réseaux sociaux,Assistance technique,Agent E,671,Résolu,3
+2024-12-13,Chat,Information,Agent B,186,Résolu,4
+2024-12-13,Téléphone,Réclamation,Agent A,761,Résolu,4
+2024-12-13,Téléphone,Réclamation,Agent A,604,Résolu,5
+2024-12-13,Téléphone,Facturation,Agent E,389,Résolu,5
+2024-12-13,Téléphone,Facturation,Agent D,465,Escaladé,3
+2024-12-14,Téléphone,Réclamation,Agent D,582,Résolu,4
+2024-12-15,Chat,Assistance technique,Agent D,484,Résolu,5
+2024-12-16,Téléphone,Nouveau contrat,Agent D,810,Résolu,5
+2024-12-16,Réseaux sociaux,Réclamation,Agent E,303,Escaladé,4
+2024-12-16,Téléphone,Assistance technique,Agent B,821,Résolu,4
+2024-12-16,Téléphone,Réclamation,Agent A,317,Résolu,4
+2024-12-16,Email,Nouveau contrat,Agent C,1652,Résolu,3
+2024-12-17,Téléphone,Nouveau contrat,Agent E,295,Résolu,4
+2024-12-18,Chat,Réclamation,Agent C,477,Résolu,4
+2024-12-18,Téléphone,Assistance technique,Agent A,646,Non résolu,1
+2024-12-18,Téléphone,Facturation,Agent D,645,Résolu,5
+2024-12-19,Téléphone,Résiliation,Agent D,725,Non résolu,1
+2024-12-19,Email,Assistance technique,Agent A,917,Escaladé,4
+2024-12-19,Téléphone,Assistance technique,Agent D,663,Résolu,5
+2024-12-19,Réseaux sociaux,Facturation,Agent D,369,Non résolu,1
+2024-12-19,Téléphone,Information,Agent C,681,Résolu,4
+2024-12-19,Téléphone,Facturation,Agent C,336,Résolu,5
+2024-12-20,Email,Assistance technique,Agent D,1046,Résolu,5
+2024-12-20,Téléphone,Résiliation,Agent A,109,Escaladé,2
+2024-12-20,Chat,Information,Agent B,156,Escaladé,2
+2024-12-20,Réseaux sociaux,Résiliation,Agent C,195,Résolu,4
+2024-12-20,Chat,Assistance technique,Agent B,274,Résolu,5
+2024-12-20,Téléphone,Information,Agent E,370,Escaladé,3
+2024-12-21,Téléphone,Résiliation,Agent B,386,Non résolu,1
+2024-12-21,Chat,Réclamation,Agent B,317,Résolu,5
+2024-12-21,Chat,Information,Agent A,521,Escaladé,3
+2024-12-22,Téléphone,Réclamation,Agent D,420,Résolu,4
+2024-12-22,Téléphone,Information,Agent A,725,Escaladé,3
+2024-12-22,Téléphone,Information,Agent A,456,Non résolu,1
+2024-12-22,Chat,Nouveau contrat,Agent B,268,Résolu,5
+2024-12-22,Téléphone,Facturation,Agent A,704,Résolu,4
+2024-12-22,Email,Nouveau contrat,Agent D,1443,Résolu,5
+2024-12-22,Téléphone,Facturation,Agent C,459,Résolu,4
+2024-12-23,Réseaux sociaux,Information,Agent D,132,Résolu,5
+2024-12-23,Téléphone,Nouveau contrat,Agent B,480,Non résolu,1
+2024-12-23,Chat,Assistance technique,Agent D,420,Escaladé,2
+2024-12-24,Téléphone,Facturation,Agent D,215,Résolu,4
+2024-12-25,Téléphone,Information,Agent E,280,Escaladé,3
+2024-12-25,Chat,Résiliation,Agent E,235,Escaladé,2
+2024-12-25,Chat,Facturation,Agent B,593,Escaladé,3
+2024-12-25,Chat,Information,Agent C,445,Escaladé,2
+2024-12-26,Chat,Facturation,Agent B,365,Non résolu,1
+2024-12-26,Réseaux sociaux,Information,Agent C,389,Non résolu,2
+2024-12-26,Téléphone,Facturation,Agent E,632,Résolu,5
+2024-12-26,Email,Réclamation,Agent A,386,Résolu,5
+2024-12-26,Téléphone,Réclamation,Agent D,141,Non résolu,1
+2024-12-27,Téléphone,Assistance technique,Agent E,738,Résolu,4
+2024-12-27,Téléphone,Résiliation,Agent A,453,Résolu,5
+2024-12-28,Téléphone,Nouveau contrat,Agent E,222,Résolu,4
+2024-12-28,Chat,Nouveau contrat,Agent A,142,Résolu,5
+2024-12-28,Téléphone,Nouveau contrat,Agent A,486,Résolu,5
+2024-12-29,Téléphone,Réclamation,Agent C,316,Non résolu,1
+2024-12-29,Téléphone,Résiliation,Agent A,228,Escaladé,4
+2024-12-29,Chat,Nouveau contrat,Agent D,500,Non résolu,1
+2024-12-29,Téléphone,Résiliation,Agent D,604,Non résolu,1
+2024-12-29,Email,Nouveau contrat,Agent B,594,Non résolu,3
+2024-12-30,Téléphone,Résiliation,Agent D,753,Résolu,4
+2024-12-30,Réseaux sociaux,Information,Agent C,649,Résolu,5
+2024-12-30,Téléphone,Résiliation,Agent C,516,Escaladé,2
+2024-12-30,Chat,Nouveau contrat,Agent A,504,Résolu,4
+2024-12-30,Chat,Assistance technique,Agent B,187,Non résolu,1
+2024-12-30,Chat,Facturation,Agent D,108,Résolu,3
